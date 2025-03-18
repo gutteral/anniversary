@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #ffe6f2;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ff6699;
+    color: white;
+    padding: 20px;
+}
+
+.countdown {
+    margin: 20px 0;
+    font-size: 24px;
+}
+
+.gallery {
+    margin: 20px 0;
+}
+
+.gallery .images img {
+    width: 200px;
+    height: auto;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+.love-letter-link {
+    text-align: center;
+    margin: 20px;
+}
+
+.button {
+    display: inline-block;
+    background-color: #ff6699;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.button:hover {
+    background-color: #ff3366;
+}
+
+.letter-container {
+    text-align: center;
+    margin: 20px;
+}
+
+.love-letter-image {
+    max-width: 90%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+footer {
+    margin-top: 20px;
+    font-size: 14px;
+}
